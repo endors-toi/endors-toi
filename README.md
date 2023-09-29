@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @endors-toi
-- 👀 I’m interested in Machine Learning, Data Science, Web/App Development
-- 🌱 I’m currently learning the fundamentals
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m currently completely invested in mastering Web/App Development
+- 💞️ I discovered I have a knack for Frontend development
 - 📫 How to reach me? You don't, yet!
 
 <!---
