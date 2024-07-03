@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @endors-toi
 - 👀 I’m currently completely invested in mastering Web/App Development
-- 💞️ I discovered I have a knack for Frontend development
-- 📫 How to reach me? You don't, yet!
+- 💞️ I'm one year deep in Frontend Development with Angular. I also love Flutter for mobile.
+- 📫 Tbh, I love (almost) everything I learn about.
 
 <!---
 endors-toi/endors-toi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
